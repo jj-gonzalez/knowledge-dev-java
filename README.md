@@ -1,2 +1,2 @@
 # knowledge-dev-java
-Repositorio de código de prácticas en Java
+Repositorio de código en Java
