@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: simple-compiler-main
+logging:
+  pattern:
+#    console: '%d{ISO8601} [%-5level] [%logger{60}:%L]: - %msg%n%throwable'
+    console: '- %msg%n%throwable'
